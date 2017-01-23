@@ -45,6 +45,8 @@ bintray {
             vcsTag = '1.0.0'
         }
         licenses = ["Apache-2.0"]
+        vcsUrl = 'https://github.com/pbalbino/test.git'
+        websiteUrl = 'https://github.com/pbalbino/test'
         publish = true
     }
 }
